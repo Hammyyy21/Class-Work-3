@@ -1,0 +1,7 @@
+Team Member: Hamza Eldeib
+
+GitHub Repository URL:
+https://github.com/Hammyyy21/Class-Work-3
+
+CODD Live Deployment URL:
+https://codd.cs.gsu.edu/~heldeib1/cw3/buyagrade.html
